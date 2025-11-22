@@ -1,0 +1,23 @@
+# A_MediaHub* 自定义emby服务器地址规则
+# behavior: classical
+# format: yaml
+payload:
+#
+  - DOMAIN-SUFFIX,
+  - DOMAIN-SUFFIX,
+  - DOMAIN-SUFFIX,
+  - DOMAIN-SUFFIX,
+  - DOMAIN-SUFFIX,
+  - DOMAIN-SUFFIX,
+#
+  - DOMAIN-SUFFIX,sfcj.org # 非越
+#
+  - DOMAIN,eggtartemby.itsmyduty.top # lala
+#
+  - DOMAIN,pe.cn2gias.uk    # 守候高级服 US 主线路
+  - DOMAIN,prehk.cn2gias.uk # 守候高级服 HK 备用线路
+  - DOMAIN,prekr.cn2gias.uk # 守候高级服 KR 备用线路
+  - DOMAIN,emby.cn2gias.uk  # 守候机场服 US 主线路
+  - DOMAIN,ehk1.cn2gias.uk  # 守候机场服 HK 备用线路
+#
+  - DOMAIN-SUFFIX,tanhuatv.site # 探花 TV 主线路
