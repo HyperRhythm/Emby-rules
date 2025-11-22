@@ -3,12 +3,14 @@
 # format: yaml
 payload:
 #
-  - DOMAIN-SUFFIX,
-  - DOMAIN-SUFFIX,
-  - DOMAIN-SUFFIX,
-  - DOMAIN-SUFFIX,
-  - DOMAIN-SUFFIX,
-  - DOMAIN-SUFFIX,
+  - DOMAIN-SUFFIX,cn2gias.uk
+  - DOMAIN-SUFFIX,sfcj.org
+  - DOMAIN-SUFFIX,eggtartemby.itsmyduty.top
+  - DOMAIN-SUFFIX,bangumi.ca
+  - DOMAIN-SUFFIX,tanhuatv.site
+  - DOMAIN-SUFFIX,ciallo.party
+  - DOMAIN-KEYWORD,emos
+  - DOMAIN-SUFFIX,okemby.org
 #
   - DOMAIN-SUFFIX,sfcj.org # 非越
 #
