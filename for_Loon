@@ -1,7 +1,8 @@
 #自定义emby服务器地址规则
 
 DOMAIN-SUFFIX,cn2gias.uk
-DOMAIN-SUFFIX,sfcj.org
+DOMAIN-SUFFIX,cf.sfcj.org
+DOMAIN-SUFFIX,cdn.sfcj.org
 DOMAIN-SUFFIX,eggtartemby.itsmyduty.top
 DOMAIN-SUFFIX,bangumi.ca
 DOMAIN-SUFFIX,tanhuatv.site
